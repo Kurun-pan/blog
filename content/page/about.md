@@ -36,15 +36,15 @@ RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエ
  - FPGA
  - VerilogとかLSI開発関連のツールなど
 
-## 開発に何らか関わった商品
+## 開発に何らか関わった製品
 以下のような様々な商品の開発に携わり、自分が書いたソースコードを搭載した製品群を世の中に出して来ました。
  - Digital TV
  - 4K Projector
  - DVD/BD disk drive
  - Video game console
- - Printer/Scanner
- - Automotive (HEV/PHEV/EV)
+ - Consumer Printer & Scanner
  - Medical equipments
+ - Automotive (HEV/PHEV/EV)
 
 ## その他メディア
  - Twitter: https://twitter.com/kurun_pan
