@@ -1,5 +1,5 @@
 ---
-title: "xv6のRISC-V版とそのビルド手順など"
+title: "RISC-V テストベクター (検証用プログラム) "
 date: 2020-08-17T00:00:01+09:00
 bigimg: [{src: "/img/sphere.jpg", desc: ""}]
 draft: false
