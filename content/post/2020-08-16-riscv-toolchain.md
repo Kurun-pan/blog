@@ -15,6 +15,8 @@ tags: ["RISC-V"]
 RISC-Vプロセッサ向けのToolchain (クロスコンパイラ) のインストール手順を解説します。
 対象OSは`macOS`ですが、基本的にLinux (Ubuntuなど) でも同じ手順です。
 
+<!--more-->
+
 <br>
 
 ## 2. インストール手順

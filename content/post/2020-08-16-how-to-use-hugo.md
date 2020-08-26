@@ -10,6 +10,8 @@ comments: true
 Github Pages + Hugoでブログを投稿するために最低限使うコマンドの備忘録です。
 テンプレートとして利用しているテーマは[`Beautiful Hugo`](https://themes.gohugo.io/beautifulhugo/)です。
 
+<!--more-->
+
 ### 新しい記事を作成する
 
 ```

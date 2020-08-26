@@ -15,6 +15,8 @@ tags: ["RISC-V"]
 RISC-Vの検証用テストプログラムである[`riscv-tests`](https://github.com/riscv/riscv-tests)について情報をまとめました。
 RISC-Vエミュレータ開発においても、このテストプログラムがPASSするようにテスト駆動型開発 (TDD) を基本に進めました。
 
+<!--more-->
+
 <br>
 
 ## 2. riscv-tests ディレクトリ構造
