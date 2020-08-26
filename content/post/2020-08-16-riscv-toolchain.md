@@ -9,12 +9,15 @@ tags: ["RISC-V"]
 
 {{< figure src="/images/riscv.png" title="" >}}
 
+## 1. はじめに
+------
+
 RISC-Vプロセッサ向けのToolchain (クロスコンパイラ) のインストール手順を解説します。
 対象OSは`macOS`ですが、基本的にLinux (Ubuntuなど) でも同じ手順です。
 
+<br>
 
-# インストール手順
-
+## 2. インストール手順
 ------
 
 ### 必要なパッケージのインストール
@@ -45,8 +48,7 @@ $export PATH=$PATH:/opt/riscv/bin
 
 <br>
 
-# 動作確認
-
+# 3. 動作確認
 ------
 
 ```
@@ -59,8 +61,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 <br>
 
-# 参考文献
-
+# 4. 参考文献
 ------
 
  - [riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)

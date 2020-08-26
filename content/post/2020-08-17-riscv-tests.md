@@ -9,11 +9,15 @@ tags: ["RISC-V"]
 
 {{< figure src="/images/riscv.png" title="" >}}
 
+## 1. はじめに
+------
+
 RISC-Vの検証用テストプログラムである[`riscv-tests`](https://github.com/riscv/riscv-tests)について情報をまとめました。
 RISC-Vエミュレータ開発においても、このテストプログラムがPASSするようにテスト駆動型開発 (TDD) を基本に進めました。
 
-# riscv-tests ディレクトリ構造
+<br>
 
+## 2. riscv-tests ディレクトリ構造
 ---------
 
 riscv-testsには、`isa`と`benchmarks`の2つが用意されています。`isa`が各命令のテストプログラムで、
@@ -41,8 +45,9 @@ riscv-testsには、`isa`と`benchmarks`の2つが用意されています。`is
   rv64ui | 64 | User | RV64I (基本命令系)
   rv64um | 64 | User | RV64M (乗除命令系)
 
-# OK/NGの判定方法
+<br>
 
+## 3. OK/NGの判定方法
 ---------
 
 `Spike` というRISC-V公式のRISC-V向けの命令セットシミュレータ(ISS)において、
@@ -98,8 +103,9 @@ fromhost: .dword 0
 
 ということで、RISC-Vエミュレータのテスト用に利用する場合、`.tohost`のセクションを見つけて、そこのアドレスをポーリングすれば良さそうですね。
 
-# riscv-testsのビルド
+<br>
 
+# 4. riscv-testsのビルド
 ---------
 
 ここからはriscv-testsのビルド手順についてです。
@@ -125,7 +131,7 @@ benchmarks/dhrystone.riscv: ELF 64-bit LSB executable, UCB RISC-V,
 version 1 (SYSV), statically linked, not stripped
 ```
 
-## isaのテストプログラム
+### isaのテストプログラム
 
 rv32ui-`p`-add、rv32ui-`v`-addのように、ハイフン間の識別子は、`p`が物理アドレシング (仮想アドレス無効)、
 `v`が仮想アドレス有効なテストであることを示しています。
@@ -133,7 +139,9 @@ rv32ui-`p`-add、rv32ui-`v`-addのように、ハイフン間の識別子は、`
 このようにCPUビットモード、Privilegeモード、アドレッシングモード (仮想アドレスのON/OFF)、命令の種類の組み合わせ
 のテストパターンとなります。
 
-# 参考文献
+<br>
+
+## 5. 参考文献
 
 ------
 
