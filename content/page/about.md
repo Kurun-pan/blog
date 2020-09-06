@@ -9,16 +9,15 @@ comments: true
 仕事では下回りのシステムソフトウェアの経験が主ですが、ミドルウェア以下を幅広く担当しています。
 最近はGUI周りのソフトウェア開発やってます。
 
-プライベートでは、Androidアプリを開発して配信したり、最近ではRust言語で
+プライベートでは、Androidアプリを開発および配信したり、最近ではRust言語で
 RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエミュレータ
-上で動かそうとしていたり、技術書典向けにいくつかの書籍を執筆しています。
-
- - Booth: https://kurun.booth.pm/
+上で動かそうとしていたり、技術書典向けにいくつかの書籍を執筆しているなど、
+マルチに活動しています。
 
 ## 専門分野
  - Embedded System & Software
  - Linux, Android
- - SoC (System on Chip) (昔、数年だけLSI開発経験あり)
+ - SoC (System on Chip) - 数年のLSI開発経験あり
 
 ## Computer Skills
  - C/C++
@@ -51,3 +50,5 @@ RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエ
  - Twitter: https://twitter.com/kurun_pan
  - Qiita: https://qiita.com/kurun_pan
  - Meduim: https://medium.com/@kurun_pan
+ - Booth: [Kurun-books](https://kurun.booth.pm/)
+ - 技術書典: [Kurun-books](https://techbookfest.org/organization/5486480298344448)
