@@ -15,7 +15,7 @@ macOSではビルドエラーになることと、CMakeのバージョンが割�
 ## 1. What is Zephyr?
 -------
 
-{{< figure src="./Zephyr-logo.png" title="" >}}
+{{< figure src="./zephyr-logo.png" title="" >}}
 
 [Zephyr](https://www.zephyrproject.org/)とは、VxWorksからforkして2015年から開発されているRTOSの一つらしいです。
 Linux Foundationのプロジェクトの一つとのことですが、全く知らなかった…。
