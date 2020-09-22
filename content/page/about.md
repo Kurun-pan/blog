@@ -17,7 +17,7 @@ RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエ
 ## 専門分野
  - Embedded System & Software
  - Linux, Android
- - SoC (System on Chip) - 数年のLSI開発経験あり
+ - SoC (System on Chip) - 数年LSI開発経験あり
 
 ## Computer Skills
  - C/C++
