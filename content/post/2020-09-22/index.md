@@ -35,6 +35,8 @@ PWMやSPIなどはOSが起動するためには不要であるため、未実装
 ## 自作エミュレータで動かしてみる
 -------
 
+LinuxやNuttXのようなシェルはないので、地味ですが。
+
 ```
 $ git clone https://github.com/Kurun-pan/riscv-emu.git
 $ cd riscv-emu
@@ -42,6 +44,6 @@ $ cargo run --release
 $ ./target/release/riscv-emu -k ./artifacts/zephyr/zephyr.elf -m SiFive_e
 ```
 
-![animation](https://github.com/Kurun-pan/riscv-emu/blob/master/demo/zephyr.gif)
+{{< figure src="./zephyr.gif" title="" >}}
 
 <br>
