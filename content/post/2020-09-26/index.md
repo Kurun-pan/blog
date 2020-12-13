@@ -136,7 +136,7 @@ $ make CROSS_COMPILE=riscv64-linux- PLATFORM=sifive/fu540 \
 ## 6. QEMU で実行
 -------
 
-事前にQEMUのビルドやインストールが必要です！
+事前にQEMUのビルドやインストールが必要です！また、今回はrootfsを用意していないので、rootfsをマウントするところでエラーになります（意図通り）。
 
 ### OpenSBI の場合
 
@@ -483,4 +483,6 @@ rrrrrrrrrrrrrrrrrrrrrr  rrrrrrrrrrrrrrrrrrrrrr
 
 - https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-introduction.html
 - https://github.com/riscv/opensbi/blob/master/docs/platform/sifive_fu540.md
+- https://msyksphinz.hatenablog.com/entry/2020/05/11/040000
 - https://msyksphinz.hatenablog.com/entry/2018/05/08/040000
+- https://cstmize.hatenablog.jp/entry/2019/10/14/_QEMU%2BOpenSBI%28boot_loader%29%E3%81%A7linux_kernel%E3%81%AE%E8%B5%B7%E5%8B%95
