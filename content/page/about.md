@@ -12,23 +12,23 @@ RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエ
 技術書典向けにいくつかの書籍を執筆しているなど、マルチに活動しています。
 
 ## 専門分野
- - Embedded System & Software
- - Linux, Android
- - SoC (System on Chip) - 数年LSI開発経験あり
+ - Embedded Systems & Software
+ - Linux, Android OS, RTOS
+ - SoC (System on Chip) - 数年のLSI開発経験あり
 
 ## Computer Skills
  - C/C++
- - Dart (Flutter)
  - Rust
  - Java
+ - Dart (Flutter。FlutterのOSSコントリビュータです)
  - Kotlin (少しだけ)
  - Docker / コンテナランタイム (runcなど)
- - Linux
+ - Linux全般
 
 ## Hardware Skills
  - ARM64
+ - Intel x86_64
  - RISC-V
- - Intel X64
  - FPGA
  - VerilogとかLSI開発関連のツールなど
 
