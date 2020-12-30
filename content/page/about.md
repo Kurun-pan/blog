@@ -5,35 +5,34 @@ comments: true
 ---
 
 ## Who are you?
-仕事では、システムソフトウェア開発やミドルウェアなどのOSSを触ったりしています。
+I am a software engineer & Researcher, and develop system softwares and middlewares such as WebView and Flutter in my job.
 
-プライベートでは、Androidアプリを開発および配信したり、最近ではRust言語で
-RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエミュレータ上で動かそうとしていたり、
-技術書典向けにいくつかの書籍を執筆しているなど、マルチに活動しています。
+In my private, I have developed and released Android apps, recently developed a RISC-V CPU emulator written in the Rust language and tried to run an OS such as xv6 or Linux on that emulator, and some for technical books.
 
-## 専門分野
+## Key Qualities:
  - Embedded Systems & Software
  - Linux, Android OS, RTOS
- - SoC (System on Chip) - 数年のLSI開発経験あり
+ - SoC (System on Chip) - Have several years of LSI development experience
 
-## Computer Skills
+## Computer Skills:
  - C/C++
  - Rust
+ - Dart (Flutter OSS Contributor)
  - Java
- - Dart (Flutter。FlutterのOSSコントリビュータです)
- - Kotlin (少しだけ)
- - Docker / コンテナランタイム (runcなど)
- - Linux全般
+ - Kotlin (Just a little)
+ - Docker / Container runtimes (runc etc.)
+ - Linux
 
-## Hardware Skills
+## Hardware Skills:
  - ARM64
  - Intel x86_64
  - RISC-V
  - FPGA
- - VerilogとかLSI開発関連のツールなど
+ - Verilog
+ - Tools to develop LSI
 
-## 開発に何らか関わった製品
-以下のような商品の開発に携わり、自分が書いたソースコードを搭載した製品群を世の中にリリースしています。
+## Products services:
+I have involved in the development of the following products, and have released a lot of products.
 
  - Digital TV
  - 4K Projector
@@ -41,9 +40,9 @@ RISC-V CPUのエミュレータを開発してxv6やLinuxなどのOSをそのエ
  - Video game console
  - Consumer Printer & Scanner
  - Medical equipments
- - Automotive (HEV/PHEV/EV)
+ - Automotives (HEV/PHEV/EV)
 
-## その他メディア
+## Publications:
  - Twitter: https://twitter.com/kurun_pan
  - Qiita: https://qiita.com/kurun_pan
  - Meduim: https://medium.com/@kurun_pan
