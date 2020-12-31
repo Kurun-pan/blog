@@ -1,5 +1,5 @@
 ---
-title: "プログラミングトレーニング(12/28/20)"
+title: "プログラミングトレーニング(12/28/2020)"
 date: 2020-12-28T00:00:00+09:00
 bigimg: [{src: "/img/sphere.jpg", desc: ""}]
 draft: false
