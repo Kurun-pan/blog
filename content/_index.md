@@ -3,6 +3,7 @@
 
  - Twitter: https://twitter.com/kurun_pan
  - Qiita: https://qiita.com/kurun_pan
+ - Zenn: https://zenn.dev/kurun
  - Meduim: https://medium.com/@kurun_pan
  - Booth: [Kurun-books](https://kurun.booth.pm/)
  - 技術書典: [Kurun-books](https://techbookfest.org/organization/5486480298344448)
