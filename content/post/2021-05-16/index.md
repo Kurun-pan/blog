@@ -4,7 +4,7 @@ date: 2021-05-16T00:00:00+09:00
 bigimg: [{src: "/img/sphere.jpg", desc: ""}]
 draft: false
 comments: true
-tags: ["Chromebook"]
+tags: ["Chromebook", "日記"]
 ---
 
 発売発表直後の特別価格 32,799 円(税込)で[ASUS Chromebook Detachable CM3 (CM3000DVA-HT0019)](https://jp.store.asus.com/store/asusjp/ja_JP/pd/productID.5497772100)を購入したよという話です。スペックや付属品の充実度を考えるととんでもなくお得な商品だったので、この機会に購入しました。
