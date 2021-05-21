@@ -5,19 +5,20 @@ comments: true
 ---
 
 ## Who are you?
-I am a software engineer & Researcher, and develop system softwares and middlewares such as WebView and Flutter in my job.
+I am a software engineer & Researcher, and develop system softwares and middlewares such as WebView and Flutter at work.
 
 In my private, I have developed and released Android apps, recently developed a RISC-V CPU emulator written in the Rust language and tried to run an OS such as xv6 or Linux on that emulator, and some for technical books.
 
 ## Key Qualities:
  - Embedded Systems & Software
+ - Flutter & Flutter app development
  - Linux, Android OS, RTOS
  - SoC (System on Chip) - Have several years of LSI development experience
 
 ## Computer Skills:
  - C/C++
  - Rust
- - Dart (Flutter OSS Contributor)
+ - Dart (Flutter open-source software Contributor)
  - Java
  - Kotlin (Just a little)
  - Docker / Container runtimes (runc etc.)
